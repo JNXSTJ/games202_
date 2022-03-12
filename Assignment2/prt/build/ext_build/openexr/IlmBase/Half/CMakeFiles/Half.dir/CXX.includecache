@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/taojian/Desktop/study/games202/homework/Assignment2/prt/ext/openexr/IlmBase/Half/half.cpp
+assert.h
+-
+half.h
+/Users/taojian/Desktop/study/games202/homework/Assignment2/prt/ext/openexr/IlmBase/Half/half.h
+toFloat.h
+/Users/taojian/Desktop/study/games202/homework/Assignment2/prt/ext/openexr/IlmBase/Half/toFloat.h
+eLut.h
+/Users/taojian/Desktop/study/games202/homework/Assignment2/prt/ext/openexr/IlmBase/Half/eLut.h
+
+/Users/taojian/Desktop/study/games202/homework/Assignment2/prt/ext/openexr/IlmBase/Half/half.h
+halfExport.h
+/Users/taojian/Desktop/study/games202/homework/Assignment2/prt/ext/openexr/IlmBase/Half/halfExport.h
+iostream
+-
+
+/Users/taojian/Desktop/study/games202/homework/Assignment2/prt/ext/openexr/IlmBase/Half/halfExport.h
+
+ext_build/openexr/IlmBase/Half/eLut.h
+
+ext_build/openexr/IlmBase/Half/toFloat.h
+
